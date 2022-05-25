@@ -1,2 +1,2 @@
-# manifestos-modernistas
-Trabalho de português chato que vou fazer uma página
+# Manifestos Modernistas Links
+É, parece que você se perdeu. Esse repositório só tem páginas que redirecionam para links. Não há nada aqui.
